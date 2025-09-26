@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import ToDoApp from "./components/ToDoApp";
+import TodoApp from "./components/TodoApp";
 const App = () => {
   return (
     <div className="bg-stone-900 grid py-4  min-h-screen ">
-      <ToDoApp />
+      <TodoApp />
     </div>
   );
 };

@@ -1,0 +1,24 @@
+![alt text](image.png)# Ignore node modules
+node_modules
+
+# Ignore build output
+dist
+build
+
+# Ignore environment files
+.env*
+
+# Ignore logs
+*.log
+
+# Ignore git
+.git
+.gitignore
+
+# Ignore Docker files themselves
+Dockerfile
+.dockerignore
+
+debug
+.vscode
+.idea
